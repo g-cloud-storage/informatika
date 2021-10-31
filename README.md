@@ -11,7 +11,7 @@
   <div class="login-wrapper">
     <form action="" class="form">
       <img src="logo.png" alt="">
-      <h2><color:white></color:white><a href="https://ghaniputra.github.io/BANTENG-merah/">click here to Next</a></color:white></h2>
+      <h2><a href="https://ghaniputra.github.io/BANTENG-merah/">click here to Next</a>></h2>
       <div class="input-group">
         <input type="text" name="loginUser" id="loginUser" required>
         <label for="loginUser">User Name (requaired)</label>
